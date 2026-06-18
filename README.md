@@ -6,6 +6,9 @@
 
 **AudienceNode** is a real-time, multi-threaded FastAPI & React pipeline. It ingests Twitch chat via raw IRC sockets, applies K-Means clustering to sentence embeddings, and groups unstructured text into semantic topics to deliver mathematically verified proof of audience engagement.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfdf007c-788c-470f-b54b-bd87366d87f6" />
+
+
 ---
 
 ## 🚀 Core Features
